@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-stats-card-using-flexbox-iNb3xqop5)
 - Live Site URL: (https://kyblue.github.io/FM-1-StatsPreviewCardComponent/)
 
 ## My process
