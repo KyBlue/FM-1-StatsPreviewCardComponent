@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://kyblue.github.io/FM-1-StatsPreviewCardComponent/)
 
 ## My process
 
