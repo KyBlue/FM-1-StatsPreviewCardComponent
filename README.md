@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-[url](https://gyazo.com/b2310ac252958b89c532b6f14643d993 "Screenshot)
+[url](https://gyazo.com/b2310ac252958b89c532b6f14643d993 "Screenshot")
 
 ### Links
 
