@@ -38,7 +38,7 @@
       flex: 1;
       order: 2;
       background-size: cover;
-      background-image: url(Images/image-header-desktop.jpg);
+      background-image: url(images/image-header-desktop.jpg);
       background-repeat: no-repeat;
       background-position: center;
       filter: opacity(0.5) drop-shadow(0 0 0 hsl(280, 100%, 50%));
@@ -110,7 +110,7 @@
       flex: 1;
       order: 1;
       padding-top: 260px;
-      background-image: url(Images/image-header-mobile.jpg);
+      background-image: url(images/image-header-mobile.jpg);
     }
       
     .stats {
