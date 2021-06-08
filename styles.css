@@ -41,7 +41,14 @@
       background-image: url(images/image-header-desktop.jpg);
       background-repeat: no-repeat;
       background-position: center;
-      filter: opacity(0.5) drop-shadow(0 0 0 hsl(280, 100%, 50%));
+      /* filter: opacity(0.5) drop-shadow(0 0 0 hsl(280, 100%, 50%)); */
+      /* filter no longer works with firefox update */
+    }
+
+    .card-image-cover {
+      background-color: rgba(132, 52, 182, 0.5);
+      width: 100%;
+      height: 100%;
     }
 
     p {
@@ -95,7 +102,6 @@
     }
 
     .card-text {
-      flex: .75;
       order: 2;
       margin: 20px 40px 20px 40px;
       text-align: center;
@@ -107,12 +113,16 @@
     }
 
     .card-image {
-      flex: 1;
       order: 1;
-      padding-top: 260px;
       background-image: url(images/image-header-mobile.jpg);
     }
-      
+
+    .card-image-cover {
+      background-color: rgba(122, 37, 179, 0.5);
+      width: 100%;
+      height: 280px;
+    }
+  
     .stats {
       margin-top: 30px;
       display: flex;
