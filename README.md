@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/84397950/120392310-eafa9980-c2f5-11eb-804c-7248e153419e.png)
+![image](https://gyazo.com/1b7ec44d4042e7babf14476264559ed3)
 
 
 ### Links
